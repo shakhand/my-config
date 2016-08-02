@@ -23,3 +23,22 @@ A tools can navigate symbol reference for c/c++
 
 
 RTag is required https://github.com/Andersbakken/rtags
+
+### EasyClangComplete
+complete your code with clang
+
+configure example:
+```json
+"settings":
+{
+		"clang_flags": ["-D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Wall -Wextra -Wpointer-arith -Wnon-virtual-dtor -fno-rtti -std=c++11 -Wstrict-aliasing=2 -Wcast-qual -fPIC -fstack-protector-all -Wstack-protector -O3 -DNDEBUG"],
+		"include_dirs": [
+	                "${project_folder}/src",
+	                "${project_folder}/src/rct",
+	                "${project_folder}/build/src/include/rct",
+	                "${project_folder}/build/src/include/",
+	                "/usr/lib/llvm-3.8/include"
+	            ],
+		"search_clang_complete_file": "${project_folder}/"
+}
+```

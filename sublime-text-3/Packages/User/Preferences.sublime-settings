@@ -3,6 +3,7 @@
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"ignored_packages":
 	[
+		"RtagsComplete",
 		"Vintage"
 	],
 	"spelling_selector": "markup.raw, source string.quoted - punctuation, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)"

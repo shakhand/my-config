@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"Clang Format",
+		"EasyClangComplete",
 		"Package Control",
 		"RtagsComplete",
 		"SublimeLinter",

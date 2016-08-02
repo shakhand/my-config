@@ -1,0 +1,7 @@
+{
+
+// override all clang flags by project-specific settings defined under
+// `settings`->`clang_flags` in `*.sublime-project` file
+"use_project_specific_settings": true,
+"search_clang_complete_file": false,
+}
