@@ -1,0 +1,6 @@
+[
+  {"keys": ["ctrl+shift+u"], "command": "rtags_location", "args": {"switches": ["--absolute-path", "-r"]} },
+  {"keys": ["ctrl+shift+c"], "command": "rtags_location", "args": {"switches": ["--absolute-path", "-f"]} },
+  {"keys": ["ctrl+shift+b"], "command": "rtags_go_backward" },
+]
+
