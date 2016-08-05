@@ -1,30 +1,30 @@
 # Sublime Text 3 Sync
+## How to port this configuration to your OS
+**Linux:** copy the whole Sublime Text 3 folder to ~/.configure
 
-## Platform Note
-For Linux:
-	copy the whole Sublime Text 3 folder to ~/.configure
 	
-For Windows:
-	only copy the folder "Sublime Text 3/Pakcages/User" to "$USER/appdata/Roaming". As syncing the packages accross different platforms has differnt version. Therefore let package manager to synchrounize the packages and it read the installed packages list from Control.sublime-settings.
+**Windows:** only copy the folder "Sublime Text 3/Pakcages/User" to "$USER/appdata/Roaming". As syncing the packages accross different platforms has differnt version. Therefore let package manager to synchrounize the packages and it read the installed packages list from Control.sublime-settings.
 
 ## Packages:
 
-### SublimeLinter-contrib-clang:
+### [SublimeLinter-contrib-clang](https://github.com/nirm03/SublimeLinter-clang)
 A C/C++ Lint based on clang.
 
+
+plugin [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) is required
 
 clang required 
 ```sh
 $ sudo apt install clang
 ```
 	
-### SublimeRtags
+### [SublimeRtags](https://github.com/rampage644/sublime-rtags)
 A tools can navigate symbol reference for c/c++
 
 
-RTag is required https://github.com/Andersbakken/rtags
+[RTag](https://github.com/Andersbakken/rtags) is required 
 
-### EasyClangComplete
+### [EasyClangComplete](https://github.com/niosus/EasyClangComplete)
 complete your code with clang
 
 configure example:
@@ -43,16 +43,15 @@ configure example:
 }
 ```
 
-### SublimeAllAutocomplete
+### [SublimeAllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete)
 Extends the default autocomplete to find matches in all open files
-https://github.com/alienhard/SublimeAllAutocomplete
 
-### MarkdownEditing
+
+### [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)
 support Github Markdown and view the markdown file
-https://github.com/SublimeText-Markdown/MarkdownEditing
 
-### ClangFormat [Website](https://github.com/rosshemsley/
+### [ClangFormat](https://github.com/rosshemsley/)
 Clang-format is a tool for re-formatting C++, built on LLVM. This is a package that allows you to run it easily from within Sublime Text.[SublimeClangFormat)
 
-### DocBlockr [Website](https://github.com/spadgos/sublime-jsdocs)
+### [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 DocBlockr is a package for Sublime Text 2 & 3 which makes writing documentation a breeze. DocBlockr supports JavaScript (including ES6), PHP, ActionScript, Haxe, CoffeeScript, TypeScript, Java, Apex, Groovy, Objective C, C, C++ and Rust.
