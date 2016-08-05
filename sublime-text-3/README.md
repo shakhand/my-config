@@ -46,3 +46,7 @@ configure example:
 ### SublimeAllAutocomplete
 Extends the default autocomplete to find matches in all open files
 https://github.com/alienhard/SublimeAllAutocomplete
+
+### MarkdownEditing
+support Github Markdown and view the markdown file
+https://github.com/SublimeText-Markdown/MarkdownEditing
