@@ -51,7 +51,8 @@ https://github.com/alienhard/SublimeAllAutocomplete
 support Github Markdown and view the markdown file
 https://github.com/SublimeText-Markdown/MarkdownEditing
 
-### ClangFormat
-Clang-format is a tool for re-formatting C++, built on LLVM. This is a package that allows you to run it easily from within Sublime Text.
+### ClangFormat [Website](https://github.com/rosshemsley/
+Clang-format is a tool for re-formatting C++, built on LLVM. This is a package that allows you to run it easily from within Sublime Text.[SublimeClangFormat)
 
-[Website](https://github.com/rosshemsley/SublimeClangFormat)
+### DocBlockr [Website](https://github.com/spadgos/sublime-jsdocs)
+DocBlockr is a package for Sublime Text 2 & 3 which makes writing documentation a breeze. DocBlockr supports JavaScript (including ES6), PHP, ActionScript, Haxe, CoffeeScript, TypeScript, Java, Apex, Groovy, Objective C, C, C++ and Rust.
