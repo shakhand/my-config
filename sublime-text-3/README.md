@@ -50,3 +50,8 @@ https://github.com/alienhard/SublimeAllAutocomplete
 ### MarkdownEditing
 support Github Markdown and view the markdown file
 https://github.com/SublimeText-Markdown/MarkdownEditing
+
+### ClangFormat
+Clang-format is a tool for re-formatting C++, built on LLVM. This is a package that allows you to run it easily from within Sublime Text.
+
+[Website](https://github.com/rosshemsley/SublimeClangFormat)

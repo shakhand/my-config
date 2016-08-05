@@ -1,10 +1,28 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"added_words":
+	[
+		"c'tor",
+		"d'tor",
+		"namespace",
+		"bosch"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/MarkdownEditor (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_white_space": "all",
 	"ignored_packages":
 	[
 		"RtagsComplete",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
+	"ignored_words":
+	[
+		"Wang7@cn",
+		"Xin",
+		"param"
+	],
+	"show_line_endings": true,
+	"spell_check": true,
 	"spelling_selector": "markup.raw, source string.quoted - punctuation, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)"
 }
