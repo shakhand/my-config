@@ -42,3 +42,7 @@ configure example:
 		"search_clang_complete_file": "${project_folder}/"
 }
 ```
+
+### SublimeAllAutocomplete
+Extends the default autocomplete to find matches in all open files
+https://github.com/alienhard/SublimeAllAutocomplete
