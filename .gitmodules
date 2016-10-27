@@ -1,0 +1,3 @@
+[submodule "sublime-text-3/Packages/EasyClangComplete"]
+	path = sublime-text-3/Packages/EasyClangComplete
+	url = https://github.com/niosus/EasyClangComplete.git

@@ -1,1 +1,0 @@
-{"description": "Sublime Text 3 plugin that offers auto-completion of C/C++ structure members or class attributes and methods.", "version": "1.2.5", "url": "https://github.com/niosus/EasyClangComplete", "dependencies": [], "sublime_text": ">=3070", "platforms": ["osx", "linux", "windows"]}
