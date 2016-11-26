@@ -4,3 +4,6 @@
 [submodule "sublime-text-3/Packages/Pylinter"]
 	path = sublime-text-3/Packages/Pylinter
 	url = https://github.com/biermeester/Pylinter.git
+[submodule "sublime-text-3/Packages/pythonpep8autoformat"]
+	path = sublime-text-3/Packages/pythonpep8autoformat
+	url = https://github.com/Stibbons/pythonpep8autoformat.git
