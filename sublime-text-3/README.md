@@ -58,3 +58,7 @@ DocBlockr is a package for Sublime Text 2 & 3 which makes writing documentation 
 
 ### [Open-Include](https://github.com/titoBouzout/Open-Include)
 Open include file in c/c++
+
+### [Sublime Function Name Display](https://github.com/akrabat/SublimeFunctionNameDisplay)
+Show function name in status bar for c/c++
+

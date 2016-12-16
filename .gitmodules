@@ -10,3 +10,6 @@
 [submodule "sublime-text-3/Packages/GitGutter"]
 	path = sublime-text-3/Packages/GitGutter
 	url = https://github.com/jisaacks/GitGutter.git
+[submodule "sublime-text-3/Packages/SublimeFunctionNameDisplay"]
+	path = sublime-text-3/Packages/SublimeFunctionNameDisplay
+	url = https://github.com/akrabat/SublimeFunctionNameDisplay.git
