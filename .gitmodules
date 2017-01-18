@@ -13,3 +13,15 @@
 [submodule "sublime-text-3/Packages/SublimeFunctionNameDisplay"]
 	path = sublime-text-3/Packages/SublimeFunctionNameDisplay
 	url = https://github.com/akrabat/SublimeFunctionNameDisplay.git
+[submodule "sublime-text-3/Packages/ColorSchemeEditor"]
+	path = sublime-text-3/Packages/ColorSchemeEditor
+	url = https://github.com/bobef/ColorSchemeEditor
+[submodule "sublime-text-3/Packages/SublimeGDB"]
+	path = sublime-text-3/Packages/SublimeGDB
+	url = https://github.com/quarnster/SublimeGDB
+[submodule "sublime-text-3/Packages/SublimeREPL"]
+	path = sublime-text-3/Packages/SublimeREPL
+	url = https://github.com/wuub/SublimeREPL
+[submodule "sublime-text-3/Packages/cheatsheet"]
+	path = sublime-text-3/Packages/cheatsheet
+	url = https://github.com/vrachieru/cheatsheet
